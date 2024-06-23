@@ -1,0 +1,17 @@
+table{
+    width: 1300px;
+    height: 65px;
+    border-collapse: collapse;
+    border: 1px solid rgba(105, 105, 105, 0.646);
+
+    th{
+        border: 1px solid white;
+        width: 200px;
+    }
+    
+    td{
+        background-color: aliceblue;
+        width: 200px;
+        text-indent: 10px;
+    }
+}
